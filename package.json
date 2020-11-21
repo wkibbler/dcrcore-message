@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-message",
+  "name": "dcrcore-message",
   "version": "1.0.3",
   "description": "Bitcoin Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "@exodus/dcrcore-lib": "https://github.com/wkibbler/dcrcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
