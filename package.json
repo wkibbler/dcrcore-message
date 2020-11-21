@@ -23,7 +23,8 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "@exodus/dcrcore-lib": "https://github.com/wkibbler/dcrcore-lib"
+    "@exodus/dcrcore-lib": "https://github.com/wkibbler/dcrcore-lib",
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
